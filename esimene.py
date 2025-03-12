@@ -1,1 +1,1 @@
-print("Tere, Rebeca")
+print("Tere, Rebecca")
